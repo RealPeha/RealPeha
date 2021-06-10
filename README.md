@@ -44,19 +44,19 @@ I play Minecraft and consider myself a genius 👁👃👁. Also I consider myse
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 ### Some personal projects 
-#### How to Install <a href="https://peha.fun/how-to-install/"><img src="https://img.shields.io/badge/-Demo-000" alt="How to install" align="center"></a> <a href="https://github.com/RealPeha/how-to-install"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="How to install (source)" align="center"></a>
+#### How to Install <a href="https://peha.fun/how-to-install/"><img src="https://img.shields.io/badge/-Demo-tomato" alt="How to install" align="center"></a> <a href="https://github.com/RealPeha/how-to-install"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="How to install (source)" align="center"></a>
 This project is a collection of instructions for installing programs and utilities for Linux, Windows, MacOS, etc.
 
-#### Canvas Sketches <a href="https://peha.fun/sketches/"><img src="https://img.shields.io/badge/-Demo-000" alt="Canvas Sketches" align="center"></a> <a href="https://github.com/RealPeha/sketches"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="Canvas Sketches (source)" align="center"></a>
+#### Canvas Sketches <a href="https://peha.fun/sketches/"><img src="https://img.shields.io/badge/-Demo-tomato" alt="Canvas Sketches" align="center"></a> <a href="https://github.com/RealPeha/sketches"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="Canvas Sketches (source)" align="center"></a>
 Just a collection of small demos I made.
 
-#### Real-time Canvas <a href="http://canvas.peha.fun/"><img src="https://img.shields.io/badge/-Demo-000" alt="Real-time canvas" align="center"></a> <a href="https://github.com/RealPeha/real-canvas"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="Real-time canvas (source)" align="center"></a>
+#### Real-time Canvas <a href="http://canvas.peha.fun/"><img src="https://img.shields.io/badge/-Demo-tomato" alt="Real-time canvas" align="center"></a> <a href="https://github.com/RealPeha/real-canvas"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="Real-time canvas (source)" align="center"></a>
 Simple real-time drawing app.
 
-#### Rays Sandbox <a href="https://peha.fun/rays/"><img src="https://img.shields.io/badge/-Demo-000" alt="Rays" align="center"></a> <a href="https://github.com/RealPeha/rays"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="Rays (source)" align="center"></a>
+#### Rays Sandbox <a href="https://peha.fun/rays/"><img src="https://img.shields.io/badge/-Demo-tomato" alt="Rays" align="center"></a> <a href="https://github.com/RealPeha/rays"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" alt="Rays (source)" align="center"></a>
 A logic circuit simulator using rays system. Mechanics similar to Minecraft's Redstone.
 
-#### This Repo Has N Stars <a href="https://github.com/RealPeha/This-Repo-Has-0-Stars"><img src="https://img.shields.io/badge/-Repo-000?&logo=GitHub" alt="This Repo Has N Stars" align="center"></a>
+#### This Repo Has N Stars <a href="https://github.com/RealPeha/This-Repo-Has-0-Stars"><img src="https://img.shields.io/badge/-Demo-tomato?&logo=GitHub" alt="This Repo Has N Stars" align="center"></a>
 A comic repository that has already collected more than 1.6k stars. Just put a star to understand what it is about 😏
 
 ### Contacts
