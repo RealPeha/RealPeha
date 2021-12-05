@@ -22,27 +22,26 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
 <br />
+<sup>`Blockchain`</sup>
+![web3.js](https://img.shields.io/badge/-web3.js-000?&logo=ethereum)
+![Ethers Project](https://img.shields.io/badge/-Ethers%20Project-000?&logo=ethereum)
+![EVM chains](https://img.shields.io/badge/-EVM%20chains-000?&logo=ethereum)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![Truffle](https://img.shields.io/badge/-Truffle-000?&logo=Solidity)
+<br />
 <sup>`Front-end`</sup>
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
-![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
+![MobX](https://img.shields.io/badge/-MobX-000?&logo=MobX)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
-<br />
-<sup>`Blockchain`</sup>
-![Web3](https://img.shields.io/badge/-Web3-000?&logo=ethereum)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![Another shit](https://img.shields.io/badge/-and%20many%20other...-000)
 <br />
 <sup>`Back-end`</sup>
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=Node-dot-js)
-![Deno](https://img.shields.io/badge/-Deno-000?&logo=Deno)
 ![Express.js](https://img.shields.io/badge/-Express.js-000)
+![NestJS](https://img.shields.io/badge/-NestJS-000)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
