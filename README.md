@@ -65,14 +65,14 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 #### This Repo Has N Stars <a href="https://github.com/RealPeha/This-Repo-Has-0-Stars"><img src="https://img.shields.io/badge/-Demo%20and%20source-tomato?&logo=GitHub" align="center"></a>
 >A comic repository that has already collected more than 1.6k stars. Just put a star to understand what it is about 😏
 
-#### Rays Sandbox <a href="https://peha.fun/rays/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/rays"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
+#### Rays Sandbox <a href="https://realpeha.github.io/rays/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/rays"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
 >A logic circuit simulator using rays system. Mechanics similar to Minecraft's Redstone. Yes, you can actually create an ALU on this
 
-#### How to Install <a href="https://peha.fun/how-to-install/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/how-to-install"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
+#### How to Install <a href="https://realpeha.github.io/how-to-install/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/how-to-install"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
 >This project is a collection of instructions for installing programs and utilities for Linux, Windows, MacOS, etc. Unfortunately the project has been abandoned, but I still think it's a good idea
 
-#### Canvas Sketches <a href="https://peha.fun/sketches/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/sketches"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->Just a collection of small demos I made. From [weird clocks](https://peha.fun/sketches/#graph-clock) and [simple spring physics](https://peha.fun/sketches/#gravity-spring) to [Verlet integration](https://peha.fun/sketches/#verle)
+#### Canvas Sketches <a href="https://realpeha.github.io/sketches/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/sketches"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
+>Just a collection of small demos I made. From [weird clocks](https://realpeha.github.io/sketches/#graph-clock) and [simple spring physics](https://realpeha.github.io/sketches/#gravity-spring) to [Verlet integration](https://realpeha.github.io/sketches/#verle)
 
 #### Real-time Canvas <a href="http://canvas.peha.fun/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/real-canvas"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
 >Simple real-time drawing app.
@@ -84,4 +84,3 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 <a href="https://www.linkedin.com/in/realpeha/"><img src="https://img.shields.io/badge/-Stas Kardash-000?&logo=LinkedIn" alt="RealPeha"></a>
 <br />
 <a href="mailto:real.peha@gmail.com"><img src="https://img.shields.io/badge/-real.peha@gmail.com-000?&logo=Gmail" alt="Main email"></a>
-<a href="mailto:real@peha.fun"><img src="https://img.shields.io/badge/-real@peha.fun-000?&logo=Gmail" alt="Reserve email"></a>
