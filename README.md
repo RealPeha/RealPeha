@@ -8,34 +8,31 @@
 I play Minecraft and write code. I enjoy the process of refactoring, rewriting, rethinking the code, bringing it to perfection (but this is rare) 👁👃👁
 
 ### Skillset
-<sup>`Languages`</sup>
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+<sup>`Main languages`</sup>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <br />
 <sup>`Blockchain`</sup>
-![web3.js](https://img.shields.io/badge/-web3.js-000?&logo=ethereum)
-![ethers.js](https://img.shields.io/badge/-ethers.js-000?&logo=ethereum)
-![EVM networks](https://img.shields.io/badge/-EVM%20networks-000?&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![ethers.js](https://img.shields.io/badge/-ethers.js-000?&logo=ethereum)
+![web3.js](https://img.shields.io/badge/-web3.js-000?&logo=ethereum)
+![EVM networks](https://img.shields.io/badge/-EVM%20networks-000?&logo=ethereum)
 ![Truffle](https://img.shields.io/badge/-Truffle-000?&logo=Solidity)
+![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Solidity)
 <br />
 <sup>`Front-end`</sup>
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![MobX](https://img.shields.io/badge/-MobX-000?&logo=MobX)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![esbuild](https://img.shields.io/badge/-esbuild-000?&logo=esbuild)
 ![Another shit](https://img.shields.io/badge/-and%20many%20other...-000)
 <br />
 <sup>`Back-end`</sup>
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 <br />
 <sup>`Management`</sup>
@@ -51,11 +48,17 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 ![Spigot Plugins](https://img.shields.io/badge/-Spigot%20Plugins-000?&logo=Minecraft)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot)
 
 ### Some useless personal projects
+#### Walle <a href="https://github.com/Pobepto/walle"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
+>Powerful CLI Crypto Wallet for EVM Networks (Ethereum, Polygon, BNB Chain)
+
 #### Telegram Keyboard <a href="https://www.npmjs.com/package/telegram-keyboard"><img src="https://img.shields.io/badge/-npm-tomato?&logo=npm" align="center" /></a> <a href="https://github.com/RealPeha/telegram-keyboard"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
 >Simple and powerful reply and inline keyboard builder for Telegram Bots
 		
