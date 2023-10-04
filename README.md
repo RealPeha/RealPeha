@@ -15,8 +15,10 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 <sup>`Blockchain`</sup>
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![ethers.js](https://img.shields.io/badge/-ethers.js-000?&logo=ethereum)
-![web3.js](https://img.shields.io/badge/-web3.js-000?&logo=ethereum)
+![viem](https://img.shields.io/badge/-viem-000?&logo=ethereum)
+![wagmi](https://img.shields.io/badge/-wagmi-000?&logo=ethereum)
 ![EVM networks](https://img.shields.io/badge/-EVM%20networks-000?&logo=ethereum)
+![Starknet](https://img.shields.io/badge/-Starknet-000?&logo=starknet)
 ![Truffle](https://img.shields.io/badge/-Truffle-000?&logo=Solidity)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Solidity)
 <br />
@@ -30,6 +32,7 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 ![Another shit](https://img.shields.io/badge/-and%20many%20other...-000)
 <br />
 <sup>`Back-end`</sup>
+![Bun](https://img.shields.io/badge/-Bun-000?&logo=Bun)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
@@ -41,44 +44,43 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
 <br />
 <sup>`Other minor experience`</sup>
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot%20API-000?&logo=Telegram)
 ![Spigot Plugins](https://img.shields.io/badge/-Spigot%20Plugins-000?&logo=Minecraft)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 
-### Some useless personal projects
-#### Walle <a href="https://github.com/Pobepto/walle"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->Powerful CLI Crypto Wallet for EVM Networks (Ethereum, Polygon, BNB Chain)
+### Just-for-fun projects
 
-#### Telegram Keyboard <a href="https://www.npmjs.com/package/telegram-keyboard"><img src="https://img.shields.io/badge/-npm-tomato?&logo=npm" align="center" /></a> <a href="https://github.com/RealPeha/telegram-keyboard"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->Simple and powerful reply and inline keyboard builder for Telegram Bots
-		
-#### Canvas Syntax Highlight <a href="https://www.npmjs.com/package/canvas-syntax-highlight"><img src="https://img.shields.io/badge/-npm-tomato?&logo=npm" align="center" /></a> <a href="https://github.com/RealPeha/canvas-syntax-highlight"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->Syntax highlighting on the canvas
-
-#### This Repo Has N Stars <a href="https://github.com/RealPeha/This-Repo-Has-0-Stars"><img src="https://img.shields.io/badge/-Demo%20and%20source-tomato?&logo=GitHub" align="center"></a>
->A comic repository that has already collected more than 1.6k stars. Just put a star to understand what it is about 😏
-
-#### Rays Sandbox <a href="https://realpeha.github.io/rays/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/rays"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->A logic circuit simulator using rays system. Mechanics similar to Minecraft's Redstone. Yes, you can actually create an ALU on this
-
-#### How to Install <a href="https://realpeha.github.io/how-to-install/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/how-to-install"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->This project is a collection of instructions for installing programs and utilities for Linux, Windows, MacOS, etc. Unfortunately the project has been abandoned, but I still think it's a good idea
-
-#### Canvas Sketches <a href="https://realpeha.github.io/sketches/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/sketches"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->Just a collection of small demos I made. From [weird clocks](https://realpeha.github.io/sketches/#graph-clock) and [simple spring physics](https://realpeha.github.io/sketches/#gravity-spring) to [Verlet integration](https://realpeha.github.io/sketches/#verle)
-
-#### Real-time Canvas <a href="http://canvas.peha.fun/"><img src="https://img.shields.io/badge/-Demo-tomato" align="center"></a> <a href="https://github.com/RealPeha/real-canvas"><img src="https://img.shields.io/badge/-Source-000?&logo=GitHub" align="center"></a>
->Simple real-time drawing app.
+<a href="https://github.com/Pobepto/walle" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pobepto&theme=dracula&repo=walle&show_owner=true" width="49%" alt="Walle"/>
+</a>
+<a href="https://github.com/Pobepto/blocky" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pobepto&theme=dracula&repo=blocky&show_owner=true" width="49%" alt="Blocky"/>
+</a>
+<a href="https://github.com/RealPeha/This-Repo-Has-0-Stars" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RealPeha&theme=dracula&repo=This-Repo-Has-0-Stars" width="49%" alt="This Repo Has N Stars"/>
+</a>
+<a href="https://github.com/RealPeha/rays" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RealPeha&theme=dracula&repo=rays" width="49%" alt="Rays Sandbox"/>
+</a>
+<a href="https://github.com/RealPeha/telegram-keyboard" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RealPeha&theme=dracula&repo=telegram-keyboard" width="49%" alt="Telegram Keyboard"/>
+</a>
+<a href="https://github.com/RealPeha/how-to-install" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RealPeha&theme=dracula&repo=how-to-install" width="49%" alt="How to Install"/>
+</a>
+<a href="https://github.com/RealPeha/sketches" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RealPeha&theme=dracula&repo=sketches" width="49%" alt="Canvas Sketches"/>
+</a>
 
 ### Contacts
 
