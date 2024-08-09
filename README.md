@@ -89,3 +89,5 @@ I play Minecraft and write code. I enjoy the process of refactoring, rewriting, 
 <a href="https://www.linkedin.com/in/realpeha/"><img src="https://img.shields.io/badge/-Stas Kardash-000?&logo=LinkedIn" alt="RealPeha"></a>
 <br />
 <a href="mailto:real.peha@gmail.com"><img src="https://img.shields.io/badge/-real.peha@gmail.com-000?&logo=Gmail" alt="Main email"></a>
+
+<a href="https://u8views.com/github/RealPeha"><img src="https://u8views.com/api/v1/github/profiles/26817340/views/day-week-month-total-count.svg"></a>
